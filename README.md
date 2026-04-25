@@ -17,4 +17,4 @@ A responsive login UI with glassmorphism design and animated background elements
 [View on GitHub Pages](#)
 
 ## Preview
-![Login Card Preview](https://i.ibb.co/YTws1LDh/0424.gif)
+![Login Card Preview](preview.gif)
